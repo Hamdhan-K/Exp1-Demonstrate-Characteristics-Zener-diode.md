@@ -48,6 +48,7 @@ Reverse Resistance RR = ΔVR / ΔIR (Ω)
 # RESULT:
 Thus the Zener diode charcteristics were studied.
 
+<img width="1440" height="2169" alt="image" src="https://github.com/user-attachments/assets/9fc071f6-5ba9-443b-954a-98101e655e1b" />
 
 
 
